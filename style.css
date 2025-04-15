@@ -202,11 +202,6 @@ main{
     font-weight: 2rem;
     font-weight: 400;
 }
-@media(min-width:768px){
-    .content_area{
-        width: 750;
-    }
-}
 @media(min-width:992px){
     .content_area{
         width: 970;
